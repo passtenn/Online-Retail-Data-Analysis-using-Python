@@ -82,7 +82,9 @@ Siendo noviembre el mes con mayor ingreso generado.
 online-retail-analysis/
 │
 ├── Online_Retail.csv
+
 ├── Online_Retail_Analysis.ipynb
+
 └── README.md
 
 🚀 Habilidades Demostradas
